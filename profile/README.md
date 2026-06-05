@@ -32,7 +32,7 @@ In a world full of digital distractions, Cubix brings physicality back to produc
 
 ### 🎥 See it in Action
 <p align="center">
-  <video src="../assets/WhatsApp%20Video%202026-05-25%20at%209.48.53%20AM.mp4" width="400" controls autoplay muted loop>
+  <video src="../assets/demo.mp4" width="400" controls autoplay muted loop>
     Your browser does not support the video tag.
   </video>
 </p>
