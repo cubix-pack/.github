@@ -3,7 +3,24 @@
 </p>
 
 
-### The Smart Cube for Intentional Focus
+<h3 align="center">The Smart Cube for Intentional Focus</h3>
+
+<p align="center">
+  <a href="https://cubix-website-weld.vercel.app">
+    <img src="https://img.shields.io/badge/Website-cubix--website-blueviolet?style=for-the-badge&logo=vercel" alt="Website" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
+</p>
+
 
 Cubix is a physical productivity system designed to make context-switching intentional and tangible. Instead of juggling focus modes through apps or shortcuts, users flip a **physical smart cube** to activate different productivity modes across their entire ecosystem.
 
